@@ -17,6 +17,9 @@ function Navbar() {
           <li>
             galery
           </li>
+          <li>
+            hello
+          </li>
         </ul>
       </div>
 
