@@ -6,6 +6,19 @@ function Navbar() {
 
   return (
     <div>
+      <div>
+        <ul>
+          <li>
+            home
+          </li>
+          <li>
+            about
+          </li>
+          <li>
+            galery
+          </li>
+        </ul>
+      </div>
 
     </div>
   )
